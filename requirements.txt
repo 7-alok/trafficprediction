@@ -1,4 +1,5 @@
-streamlit==YOUR_STREAMLIT_VERSION
-pandas==YOUR_PANDAS_VERSION
-scikit-learn==YOUR_SCIKIT_LEARN_VERSION
-joblib==YOUR_JOBLIB_VERSION
+
+streamlit
+pandas
+scikit-learn
+joblib
